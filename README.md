@@ -1,7 +1,7 @@
 <!-- Top wave -->
 <img src="top.svg" alt="Top SVG" width="100%" />
 
-<h1 align="center">HEY, I'M Uditha M. Prasad</h1>
+<h1 align="center">HEY, I'M Uditha Manohara</h1>
 <p align="center">👨‍💻 (UG)Software Engineer • Coffee Lover ☕</p>
 
 <!-- Centered table layout -->
@@ -21,7 +21,7 @@ umplk@github
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-WhoAmI: UMP (Uditha M. Prasad)
+WhoAmI: Uditha Manohara
 Location: [Colombo, SriLanka]
 Frameworks: React, Node.js, Electron, Tailwind
 Languages: HTML, CSS, JS, TS, Python, Php, MySQL
@@ -29,8 +29,8 @@ Learning: Software Engineering , CyberSecurity, Web Development
 University: Java Institute for Advanced Technology
 Hobbies: Coding, Gaming, Music
 Email: udithamprasad@gmail.com
-Discord: umplk
-More Info : https://umplk.github.io
+Discord: udithamanohara
+More Info : https://uditha-manohara.github.io
 </code>
 </pre>
 
@@ -42,9 +42,9 @@ More Info : https://umplk.github.io
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/umplk"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/..."><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/udithamprasad/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/uditha-manohara"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/uditha-manohara"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/udithamanohara.dev/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 <!-- Bottom wave -->
