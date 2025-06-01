@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center" width="250">
-      <img src="securityknightocat.png" alt="Avatar" width="200px" style="border-radius: 15px;" />
+      <img src="securityknightocat1.png" alt="Avatar" width="200px" style="border-radius: 15px;" />
     </td>
     <td>
 
