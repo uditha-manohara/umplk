@@ -1,5 +1,15 @@
-<!-- Top wave -->
-<img src="top.svg" alt="Top SVG" width="100%" />
+<!-- Top wave (inverted and gradient applied) -->
+<div style="width:100%; overflow:hidden; line-height:0;">
+  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="transform: rotate(180deg) scaleX(-1); display: block; width: 100%; height: 100px;">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#9b5de5;" />
+        <stop offset="100%" style="stop-color:#00bbf9;" />
+      </linearGradient>
+    </defs>
+    <path d="M0.00,49.98 C150.00,150.00 350.00,-50.00 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: url(#grad);"></path>
+  </svg>
+</div>
 
 <h1 align="center">HEY, I'M [Your Name]</h1>
 <p align="center">👨‍💻 Developer • Terminal Enthusiast • Coffee Lover ☕</p>
@@ -46,4 +56,14 @@ Discord: you#1234
 </p>
 
 <!-- Bottom wave -->
-<img src="bottom.svg" alt="Bottom SVG" width="100%" />
+<div style="width:100%; overflow:hidden; line-height:0;">
+  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="display: block; width: 100%; height: 100px;">
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#9b5de5;" />
+        <stop offset="100%" style="stop-color:#00bbf9;" />
+      </linearGradient>
+    </defs>
+    <path d="M0.00,49.98 C150.00,150.00 350.00,-50.00 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="stroke: none; fill: url(#grad2);"></path>
+  </svg>
+</div>
