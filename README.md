@@ -5,6 +5,7 @@
 <p align="center">👨‍💻 Developer • Terminal Enthusiast • Coffee Lover ☕</p>
 
 <!-- Table layout -->
+<center>
 <table>
   <tr>
     <td align="center" width="250">
@@ -31,8 +32,9 @@ Discord: you#1234
 </pre>
 
     </td>
-  </tr>
+  
 </table>
+</center>
 
 <!-- Social badges -->
 <p align="center">
