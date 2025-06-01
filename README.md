@@ -4,8 +4,9 @@
 <h1 align="center">HEY, I'M [Your Name]</h1>
 <p align="center">👨‍💻 Developer • Terminal Enthusiast • Coffee Lover ☕</p>
 
-<!-- Table layout -->
-<center>
+<!-- Centered table layout -->
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="250">
@@ -32,9 +33,10 @@ Discord: you#1234
 </pre>
 
     </td>
-  
+  </tr>
 </table>
-</center>
+
+</div>
 
 <!-- Social badges -->
 <p align="center">
