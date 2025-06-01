@@ -27,6 +27,29 @@
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <!-- Add more icons as needed -->
 </p>
+<pre>
+<code>
+[YourGitHubUsername]@github
+-------------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: [Your City, Country]
+Frameworks: React, Node.js
+Languages: Python, JavaScript, TypeScript, HTML, CSS
+Learning: Rust, Deno, GraphQL
+Hobbies: Gaming, Music, Cooking
+Commits: 1234
+Stars: 42
+Discord: YourDiscordTag#1234
+</code>
+</pre>
+
+---
+
+<p align="center">
+  <img src="your-avatar.png" width="200px" alt="Profile Avatar"/>
+</p>
 
 <!-- Bottom wave SVG -->
 <img src="bottom.svg" alt="Bottom Wave" width="100%" />
