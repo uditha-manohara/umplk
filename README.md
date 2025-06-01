@@ -48,7 +48,7 @@ Discord: YourDiscordTag#1234
 ---
 
 <p align="center">
-  <img src="your-avatar.png" width="200px" alt="Profile Avatar"/>
+  <img src="pvtcat.png" width="200px" alt="Profile Avatar"/>
 </p>
 
 <!-- Bottom wave SVG -->
