@@ -30,12 +30,12 @@ University: Java Institute for Advanced Technology
 Hobbies: Coding, Gaming, Music
 Email: udithamprasad@gmail.com
 Discord: umplk
-More Info : [https://umplk.github.io](Click Here)
+More Info : https://umplk.github.io
 </code>
 </pre>
 
-    </td>
-  Don't Chase Approval, Build Your Own Legacy
+    Don't Chase Approval, Build Your Own Legacy
+  
 </table>
 
 </div>
