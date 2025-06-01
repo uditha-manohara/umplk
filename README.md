@@ -1,13 +1,5 @@
-<!-- Top wave (manually inverted) -->
-<svg viewBox="0 0 500 150" preserveAspectRatio="none" width="100%" height="100">
-  <defs>
-    <linearGradient id="gradTop" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9b5de5;" />
-      <stop offset="100%" style="stop-color:#00bbf9;" />
-    </linearGradient>
-  </defs>
-  <path d="M0,100 C150,0 350,200 500,100 L500,0 L0,0 Z" style="fill: url(#gradTop);"></path>
-</svg>
+<!-- Top wave -->
+<img src="top.svg" alt="Top SVG" width="100%" />
 
 <h1 align="center">HEY, I'M [Your Name]</h1>
 <p align="center">👨‍💻 Developer • Terminal Enthusiast • Coffee Lover ☕</p>
@@ -54,12 +46,4 @@ Discord: you#1234
 </p>
 
 <!-- Bottom wave -->
-<svg viewBox="0 0 500 150" preserveAspectRatio="none" width="100%" height="100">
-  <defs>
-    <linearGradient id="gradBottom" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9b5de5;" />
-      <stop offset="100%" style="stop-color:#00bbf9;" />
-    </linearGradient>
-  </defs>
-  <path d="M0.00,49.98 C150.00,150.00 350.00,-50.00 500.00,49.98 L500.00,0.00 L0.00,0.00 Z" style="fill: url(#gradBottom);"></path>
-</svg>
+<img src="bottom.svg" alt="Bottom SVG" width="100%" />
